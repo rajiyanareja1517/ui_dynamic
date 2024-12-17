@@ -255,10 +255,6 @@ class MyApp extends StatelessWidget {
 
 
 ```
-![Screenshot_20241217_104333](https://github.com/user-attachments/assets/2fe6ea65-7ed8-4439-a1b9-7b0191515204)
-![Screenshot_20241217_104358](https://github.com/user-attachments/assets/cd952178-38aa-42ec-be35-b345a94cdbc8)
-
-
 
 https://github.com/user-attachments/assets/c885499f-00a0-4859-87c1-df132fe8380e
 
